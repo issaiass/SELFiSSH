@@ -1,0 +1,378 @@
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTP' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+D21   --> D111
+D22   --> D112
+D23   --> D113
+D24   --> D114
+D25   --> D115
+D26   --> D116
+D27   --> D117
+D28   --> D118
+D29   --> D119
+D30   --> D120
+D31   --> D121
+D32   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTS' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D123
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D17   --> D130
+D18   --> D131
+D19   --> D132
+D20   --> D133
+D21   --> D134
+D22   --> D135
+D23   --> D136
+D24   --> D137
+D25   --> D138
+D26   --> D139
+D27   --> D140
+D28   --> D141
+D29   --> D142
+D30   --> D143
+D31   --> D144
+D32   --> D145
+D33   --> D146
+D34   --> D147
+D35   --> D148
+D36   --> D149
+D37   --> D150
+D38   --> D151
+D39   --> D152
+D40   --> D153
+D41   --> D154
+D42   --> D155
+D43   --> D156
+D44   --> D157
+D45   --> D158
+D46   --> D159
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTL' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D160
+D11   --> D161
+D12   --> D162
+D13   --> D163
+D14   --> D164
+D15   --> D165
+D16   --> D166
+D17   --> D167
+D18   --> D168
+D19   --> D169
+D20   --> D170
+D21   --> D171
+D22   --> D172
+D23   --> D173
+D24   --> D174
+D25   --> D175
+D26   --> D176
+D27   --> D177
+D28   --> D178
+D29   --> D179
+D30   --> D180
+D31   --> D181
+D32   --> D182
+D33   --> D183
+D34   --> D184
+D35   --> D185
+D36   --> D186
+D37   --> D187
+D38   --> D188
+D39   --> D189
+D40   --> D190
+D41   --> D191
+D42   --> D192
+D43   --> D193
+D44   --> D194
+D45   --> D195
+D46   --> D196
+D47   --> D197
+D48   --> D198
+D49   --> D199
+D50   --> D200
+D51   --> D201
+D52   --> D202
+D53   --> D203
+D54   --> D204
+D55   --> D205
+D56   --> D206
+D57   --> D207
+D58   --> D208
+D59   --> D209
+D60   --> D210
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GML' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D211
+D11   --> D212
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBL' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D213
+D11   --> D214
+D12   --> D215
+D13   --> D216
+D14   --> D217
+D15   --> D218
+D16   --> D219
+D17   --> D220
+D18   --> D221
+D19   --> D222
+D20   --> D223
+D21   --> D224
+D22   --> D225
+D24   --> D226
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBS' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D227
+D11   --> D228
+D12   --> D229
+D13   --> D230
+D14   --> D231
+D15   --> D232
+D16   --> D233
+D17   --> D234
+D18   --> D235
+D19   --> D236
+D20   --> D237
+D21   --> D238
+D22   --> D239
+D23   --> D240
+D24   --> D241
+D25   --> D242
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBP' ----   Sun Apr 07 10:44:51 2013
+
+D10   --> D243
+D11   --> D244
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBO' ----   Sun Apr 07 10:44:51 2013
+
+D11   --> D245
+D12   --> D246
+D14   --> D247
+D15   --> D248
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTP' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+D21   --> D111
+D22   --> D112
+D23   --> D113
+D24   --> D114
+D25   --> D115
+D26   --> D116
+D27   --> D117
+D28   --> D118
+D29   --> D119
+D30   --> D120
+D31   --> D121
+D32   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTS' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D123
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D17   --> D130
+D18   --> D131
+D19   --> D132
+D20   --> D133
+D21   --> D134
+D22   --> D135
+D23   --> D136
+D24   --> D137
+D25   --> D138
+D26   --> D139
+D27   --> D140
+D28   --> D141
+D29   --> D142
+D30   --> D143
+D31   --> D144
+D32   --> D145
+D33   --> D146
+D34   --> D147
+D35   --> D148
+D36   --> D149
+D37   --> D150
+D38   --> D151
+D39   --> D152
+D40   --> D153
+D41   --> D154
+D42   --> D155
+D43   --> D156
+D44   --> D157
+D45   --> D158
+D46   --> D159
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GTL' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D160
+D11   --> D161
+D12   --> D162
+D13   --> D163
+D14   --> D164
+D15   --> D165
+D16   --> D166
+D17   --> D167
+D18   --> D168
+D19   --> D169
+D20   --> D170
+D21   --> D171
+D22   --> D172
+D23   --> D173
+D24   --> D174
+D25   --> D175
+D26   --> D176
+D27   --> D177
+D28   --> D178
+D29   --> D179
+D30   --> D180
+D31   --> D181
+D32   --> D182
+D33   --> D183
+D34   --> D184
+D35   --> D185
+D36   --> D186
+D37   --> D187
+D38   --> D188
+D39   --> D189
+D40   --> D190
+D41   --> D191
+D42   --> D192
+D43   --> D193
+D44   --> D194
+D45   --> D195
+D46   --> D196
+D47   --> D197
+D48   --> D198
+D49   --> D199
+D50   --> D200
+D51   --> D201
+D52   --> D202
+D53   --> D203
+D54   --> D204
+D55   --> D205
+D56   --> D206
+D57   --> D207
+D58   --> D208
+D59   --> D209
+D60   --> D210
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GML' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D211
+D11   --> D212
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBL' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D213
+D11   --> D214
+D12   --> D215
+D13   --> D216
+D14   --> D217
+D15   --> D218
+D16   --> D219
+D17   --> D220
+D18   --> D221
+D19   --> D222
+D20   --> D223
+D21   --> D224
+D22   --> D225
+D24   --> D226
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBS' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D227
+D11   --> D228
+D12   --> D229
+D13   --> D230
+D14   --> D231
+D15   --> D232
+D16   --> D233
+D17   --> D234
+D18   --> D235
+D19   --> D236
+D20   --> D237
+D21   --> D238
+D22   --> D239
+D23   --> D240
+D24   --> D241
+D25   --> D242
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBP' ----   Sat Apr 13 18:22:53 2013
+
+D10   --> D243
+D11   --> D244
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\PHTrinityII\Documents\Eagle Projects\SELFiSSH\Gerbers\SELFiSSH.GBO' ----   Sat Apr 13 18:22:53 2013
+
+D11   --> D245
+D12   --> D246
+D14   --> D247
+D15   --> D248
+-----------------------------------------------------------------
