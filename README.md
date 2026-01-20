@@ -36,7 +36,6 @@ The project is organized into several key directories and files:
 SELFiSSH/
 ├── SELFiSSH.sch              # Main schematic file (Eagle CAD)
 ├── SELFiSSH.brd              # PCB board layout file (Eagle CAD)
-├── CLAUDE.md                 # Claude Code guidance document
 ├── eagle.epf                 # Eagle project settings
 │
 ├── BOM/
